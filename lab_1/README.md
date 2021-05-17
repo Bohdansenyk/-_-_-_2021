@@ -56,7 +56,7 @@
         Switch> enable
         Switch# show mac-address-table
         ```
-      ![alt text]()
+      ![alt text](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/0187316071c2f7485eca9d2beca7ffdf13147885/lab_1/screenshot_lab1_1.png)
 
 1. Яким пристроям належать МАС адреси що містяться в таблиці?
 
@@ -114,7 +114,7 @@
         Router> enable
         Router# show ip route
         ```
-      ![alt text]()
+      ![alt text](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/0187316071c2f7485eca9d2beca7ffdf13147885/lab_1/screenshot_lab1_2.png)
 
 1. Маршрути до яких мереж присутні в таблиці маршрутизації? Вказати через які порти маршрутизатора доступна кожна з мереж.
 
