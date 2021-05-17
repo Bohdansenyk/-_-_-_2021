@@ -6,8 +6,8 @@
 
 1. Записати (придумати) матрицю суміжності орієнтованого графа `G={7,12}`. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
 
-   ![матриця суміжності]()
-   ![граф]()
+   ![матриця суміжності](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_2.png)
+   ![граф](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_1.png)
 
     1. Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? *Tак* - назвіть їх; *Hі* - які ребра потрібно видалити щоб вони утворились?
 
@@ -27,21 +27,19 @@
 
     6. Побудувати доповнення (обернений) графа `G`.
 
-   ![vffg]()
-
-   ![fg]()
+   ![vffg](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_3.png)
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
 
-![граф]()
+![граф](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_4.png)
 
-![матриця суміжності]()
+![матриця суміжності](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_5.png)
 
 1. За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
 
-![alt]()
+![alt](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_6.png)
 
-![alt]()
+![alt](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_7.png)
 
 	1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
@@ -57,15 +55,15 @@
 
    **Граф G**
 
-   ![матриця суміжності G]()
+   ![матриця суміжності G](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_8.png)
 
-   ![граф G]()
+   ![граф G](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d61ea61fae107fb0823fc606c8187084ff8cdabc/lab_2/lab2_9.png)
 
    **Граф M**
 
-   ![граф M]()
+   ![граф M](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d95c4c17cc22769ee138e213da2f82b11ec3aec2/lab_2/lab2_10.png)
 
-   ![матриця суміжності M]()
+   ![матриця суміжності M](https://github.com/Bohdansenyk/senyk-lab-totk-2021/blob/d95c4c17cc22769ee138e213da2f82b11ec3aec2/lab_2/lab2_11.png)
 
 
     2. Графи орієнтовані чи неорієнтовані? 
